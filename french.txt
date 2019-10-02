@@ -308,6 +308,11 @@ Ensemble : Together : ohnsohmbleh
 Votre : Your : Vuhtre / Plural = Vos
 Notre : Our : Nohtre / Plural = Nos
 Tous (Les) : Every/Every Single(/Every/All) : toos-uh => Alone toos => Accompanied
+Maintenant : Now : Ma-teh-naww
+Quand : When : Kaw
+Semaine : Week : suh-mehnuh
+Qui : Who : Kee
+Problème : Problem/Issue/Condition : prawblehm
 
 Matin : Morning : mahtah
 Petit Déjeuner : Breakfast : pehtee dezhonee
@@ -419,6 +424,8 @@ anglaise : English : ahn glaze (Feminine)
 Japonais(f)e : Japansese : jawpoenay
 Canadien(f)ne : Canadian : can-aid-ee-anne
 Italie(f)ne : Italian : ih-tal-ee-ehnn
+Québécois : Quebecois : coo beck wav
+belge : Belgian : beljh
 Plural = {term}+s
 
 Espagne : Spain : Es pahnya
