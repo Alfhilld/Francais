@@ -1,0 +1,487 @@
+À bientôt : See you soon : Ah Bee yehn too
+À demain : See you tomorrow : Ah demah
+Enchanté : Nice to meet you : On shaun tay
+Bonne journée : Have a good day! : bon jair nee
+Bienvenue : Welcome : Biuh Venyu
+Bonne nuit : Goodnight : Bohn new (nee ew) wee
+Merci: Thank you : Mair ci
+Beaucoup : A lot/Very Much : Boe coo
+Au revoir : Goodbye : Ahh Reh vwahh
+Bonne soirée : Have a good evening : Bohn swah ray
+Ça va bien : Doing Well : Sah vah
+Ça : This/That/It
+Bien : Good/well : Bee yeh
+Comment : How, what : Como
+Très Bien : Very Well : Tray Bee yen
+Mange : Is/Are eat(ing) : Mohnj : Je, Elle, Il, garçon, fille, homme, femme
+Manges : Are eating : Mohnj : Tu
+Mangez : Are eating : Mohnj : Vous
+Mangeons : Are Eating/We Eat : Mohnjuhhn : Nous
+Mangent : Are eating : Mohnjhh : They
+Parle : Speak/is speaking : Parr leh (Je)
+Parles : Is speaking : Parr leh : Est-ce que tu parles français : Do you speak French (Tu/Il/Elle)
+Parlez : Is speaking : Parr leh (Vous)
+Parlent: Speak : Parr leh (They)
+Excusez-moi : Excuse me : excuseh mwahh (Formal)
+Excuse-moi : Excuse me : Excuse mwahh
+m'appelle : My Name is... : muh pell : Je
+t'appelle : Your name is? : tuh pell : Tu
+s'appelle : Their name is... : Suh pell : Il/Elle
+J'etudie : I am studying : jeh Tu Dee : Je
+étudie : Is studing/studies : eh tu dee
+étudies : Is/are Studying/study : eh tu dee : Tu
+étudions : Are Studying/Study : ehtudee-oh : Nous
+étudiez : Study/Are Studying : ehtudee-ay
+étudient : Study : eh tu dee : They
+étudier : To Study : eh tu dee 
+Habitez : Live : ahbeetay
+Habites : Live in/are living in : Ah Bee tuh (Tu)
+Habite : Lives/is living : ah beet uh : Je/Il/Elle
+Habitons : Live in : Ah bee tuh : Nous
+Habitent : Live in : Ah bee tuh : They
+J'habite : Live/am living : jah beet
+Ici : Here : Ee see
+Travailles : Work : trah vie : Tu
+Travaille : Work : trah vie : Je/NAME/Il/Elle
+Travail : Work/Job : travaih
+Travaillent : Work/Job : travaih : They
+Travaillez : Do you work/work!/work : travai-ay
+Avec : With : uhveq
+restaurant : Restaurant : Rest aww ront
+Gare : Train Station/Station/Park/is Parking(v) : gah (Feminine)
+Avion : Plane : aviaww
+Aéroport : Airport : ayeo porr 
+Hôtel : Hotel : oh tell (Masculine)
+voiture : Car : vwah tew (Feminine)
+train : Train : trah (Masculine)
+Prends : Am/are taking/having : paw. : Je/Tu
+Prenez : Are having/ (y'all) take/are taking/take : pawnay
+Prenons : are having, /are taking, get/are getting : pwehnoh
+Prennent : are having, take/are taking, get/are getting: pwhennah (They)
+plaît : Please : Pleh | Yes, Please = Oui, s'il vous plaît
+Où : Where/When : ooh (like oof)
+passeport : Passport : pass pohh
+billet : ticket/bill/(bank)note : bee yeh |vv
+d'avion : Plane ticket->plane : dav eeyoh | a plane ticket = un billet d'avion
+ne ... pas : Not : ne.... pah
+Saoul : Drunk : shoe
+juste : Just/Exactly/Right : jew stah
+Ivre : Intoxicated/drunk/tested : eevrah
+Venez : (you-plural) Come!/ are coming : va-nee
+Souvent : Often/frequently : Sew vahh
+Voulez : (You) want/want/will : vooh lay vooh
+Danser : (to) dance/bob, dance : doncè (To)
+Dansez : Dance : dohnsay (Vous)
+Danse : Dance/Am Dancing : dahnsay (I/He/She)
+Danses : (you) dance/are dancing, dance, dances : Dawnç
+Dansons : (we) dance/are dancing : Dawnçon (Nous)
+Dansent : (they) dance/are dancing : Dawnç
+tombé : fallen (down, on) : tohm bay
+Amoureux : in love/lover/loving : uhmuh roh
+Mannequin : Model : manucweh (Masculine)
+Plais : (I, you)(am, are) liked by : pleh
+Verre : Drink : Vairh
+Charmant : Charming : shar mahh
+Livre : Book : Lih vah
+Musique : Music : mew seeq
+aime : like/love/likes : ehmm : (I/He/She)
+Aimes : Like/Love/likes : ehmm : (You)
+Aimez : Like/Like(thing)/(Y'all) enjoy : ehmay (Vous)
+Aimons : We like (things)/we love (people/pets)/like/love : ay mohm : (We)
+Aiment : Like/Love : ay mohm : (They)
+Lire : (To) Read/read/reading
+Lis : Read, read/am reading, read/are reading : lee
+Lisez : (y'all) read/read : leezee
+Banque : Bank : bohnk
+école : School : eh cull
+écoles : Schools/Education System/Training : Eh cull
+Veux : Want : vooh : Je/Tu
+Veut : Wants/will/Want : Booh : Name
+Voulons : Want : vooh lohhn : Nous
+Parc : Park : park
+Boulangerie : Bakery : boo lohn jheree
+Métro : subway/metro : meh toe
+Chocolat : Chocolate : chahko lot
+Bus : Bus : Bus
+Zoo : Zoo : Zooh
+Cinéma : Movie Theatre/movies : See nuh muh (Masculine)
+Au : to the/to/from the : oh. 
+Mon : My : Moh (Masculine)
+Ma : My : Mah (Feminine)
+Mes : My : Mee (Plural)
+Ton : Your : toh (Masculine)
+Ta : Your : tah (Feminine)
+Tes : Your/Notes : tee (Plural)
+Son : His/Her/Sound : Soh (Masculine)
+Sa : His/Her/Their : Sah (Feminine)
+Ses : His/Her/its : See : le garçon et ses parents
+As : Have : Ahh
+A : Has : Ahh
+Ont : Have/get : awhh (They)
+De : 's, From, Of : diuhh
+Animal : Pet (animal de compagnie)/animal : Ahneemahll
+Chouette : Owl : Shhwehtt (Feminine)
+Maison : House : Mayhhzah
+Jardin : Garden : Jharduh
+Appartement : Appartment : Appartemoh 
+Dans : in/on/from : daww
+Ce : These/They : Sœu : Ce sont mes parents (These are my parents)
+Intelligente : Intelligent/Clever/Smart : uh telle janteh (Feminine)
+Intelligent : Intelligent/Clever/Smart : uh telle jawh (Masculine)
+Content : Happy/Pleased/Glad : cohn toh
+Contente : Happy/Pleased/Glad : cohn tohnteh
+Amusant : Funny/Amusing : ahmuseaww  (Masculine)
+Amusante : Funny/Amusing : ahmuseaww (Feminine)
+Table : Table : tahbleh (Feminine)
+Toilettes : Bathroom : toilette (Plural)
+Personne : Person/Nobody/Anyone/Anybody : pairsonn
+Pour : For/To/About : powwh
+Jus : Juice : Jeeh
+Café : Coffee/Café : Cahfay
+Serveur : Waiter/Server/Host : sah veurr
+Serveuse : Waitress/Female Server : sah veyewwsah
+Thé : Tea : Tee
+Voudrais : Would Like : Oohduwai
+Bière : Beer : beeyair
+eau : Water : oooh :: The water :: L'eau (loo)
+Tasse : Cup/Mug : tahss (Feminine)
+Verre : Glass : verre
+Vin : Wine : vuhh
+Bouteille : Bottle : Bootayyuh (Feminine)
+Salade : Salad : Suhlahduh (Feminine)
+Fromage : Cheese : Fruhmahjh
+Pain : Bread : paw(h)e
+Dessert : Dessert/Pudding(UK)/After : deesairhh
+Addition : Check(US)/Bill(UK) : uhdihshiyawn
+Magasin : Store : mahguhsuh
+Grand : Big/Large/Great : grawhh (Masculine)
+Grande : Big/Large/Great : grawwnduh (Feminine)
+Petit : Small/Little/Short : puhteeh (Masculine)
+Petite : Small/Little/Short : puhteeht (Feminine)
+Hôtel : Hotel : ohtehll (l'hôtel)
+Station : Station : stasiohh
+supermarché : Supermarket/Grocery Store : supermarshy
+Pharmacie : Pharmacy/Chemist's (Shop)/Drugstore : phamaçee (Feminine)
+Ouvert : Open/On/Opened : ooh vairrh
+Plante : Plant : plahnt (Feminine)
+Vélo : Bicycle : vehh loo
+Ville : City : veehl (Feminine)
+Fermé : Closed/Closed up/Shut : Fairmee
+Aujourd'hui : Today : oh jour dweee
+Nom : Name : Nooh
+Visiter : (to) visit, walks : vee zeet-ay
+Visite : Visit/Am visiting : vih zeet (I/He/She/It)
+Visites : (Visit/View/Inspect)/are (Visiting/viewing/inspecting) : vee zeet (Tu)
+Visitons : Visit/Are Visiting, View/Are Viewing, Inspect/Are Inspect : veezeetawwhn
+Pays : Country/Home/Land : Pay-yee
+Voyage : Travel/Am//Is traveling : voi yahhj
+Voyages : Travel/Traveling//Travel/ARe travelling/Traveling : Voi Yahhj
+Voyager : To Travel : Voi Yahhjayy
+Voyagent : (They) Are traveling/Travel/ travel : voi yahhjj
+Voyageons
+Vacances : Vacations/Vacation : vah cawwsa (Plural)
+Musée : Museum : mewzee (Masculine)
+Plage : Beach : plahj (Feminine)
+église : Church : eh geezuh (Feminine)
+Château : Castle : shah toe
+Arbre : Tree : Ahhrh bahh
+Gentil : Kind/Nice : Zhawntee
+Voisin : Neighbours/Nearby (Plural) : voizon
+Il y a : There Is/There Are/Ago : Eel ee yuh ::: Il > It/He : Y > There/About : A > Has/Have
+Vache : Cow : Vahshh
+Fenêtre : Window : Fehnetre (Feminine)
+Porte : Door : Poert
+Ouvre  : Open (up)/am opening (up)/Undo/Am undoing : Oovre (J'Ouvre)
+Ouvres : Open/Are Opening, Open up/Are opening up, open the door/are opening the door : Oovre (Tu ouvre)
+Ouvrons: Open/Are Opening, Undo/Are Undoing, Turn On/Are Turning On : Oovrawhh
+Chaise : Chair : shaehzz (chez, but shez) (Feminine)
+Pièce : Room/Coin : pee-yes
+Salon : Living Room : salohn
+Fleur : Flower : flurrh (Feminine)
+œuf : Egg : eff.
+Gâteau : Cake : Gahhtoo
+Ce : this/that/they : suhh (Masculine)
+Ces: These : Cee
+Cette : this/that : sehtte (Feminine)
+Prépare : Making, Make(s)/am(is) making : prayparr
+Prépares : Make/are making, prepare/are preparing : prayparr
+Préparons : Are (Making/Preparing)/Make/ Nous {term}-get ready : prayparrohh (We)
+Préparent : make/are making, prepare/are preparing : preparr
+Repas : Meal/Meals : rehpahh
+Prêt : Ready/Prepared/Loan : preh ('r' sound is majour)
+Prête : Ready/is lending/Am lending : pret ('r' sound is majour)
+Pomme : Apple : Puhmmah (Feminine)
+Fruit : Fruit : free ('r')
+Bon(f)ne : Good/Tasty/Right : Bunnuh
+Banane : Banana : bahnahnn
+Légume : Vegetable : lehgoom
+Cuisine : Cook/am cooking, is cooking, food : queezeen (I/He/She)
+Cuisines : Cook/Are cooking : Queezeen
+Cuisinez : Cook/are cooking : Queezeenay
+Cuisinons : Cook/are Cooking : Queezeenoh
+Cuisinent : Cook/are cooking : Queezeeneh
+Plat : Dish/Flat/Still : plah
+Chauffeur : Driver/Chauffeur : showffurr
+Métier : Occupation/Job : mahy tee
+Usine : Factoury : oozeen-uh
+Médecin : doctour : mehduhçuh
+Bureau : Office : Bew-hohh
+Collègue : Colleague/Co-Worker : coeleggh
+Ordinateur : Computer : ohrdeenuhteur
+Lettre : Letter : lehtre
+Stylo : Pen : Steehloh
+écris : write/am writing, write/are writing : e-cree
+Sur : On/For/As : seur
+Portable : Cell Phone : pohrtableh
+Message : Message/Text : mess-ahj
+Venir : To come/come : vehneerh
+Utilise : Use/am using, exploit/am exploting, uses/is using : ootihleez
+Numéro : Cell Phone/Number : noomehroe
+Jour : Day : joohr
+Chaque : Every/each : shaq-yuh
+Regarde : Watches/is watching/am looking at : oigohd
+Après : After/afterwards : uh-pray
+Enfant : Child/kid : awh-fawh
+Soir : In the Evening/at night/in the evenings, (no le) evening/night : swah
+Joue : Plays/is acting, plays/is playing (he/she/is) : zhuu
+Journal : Newspaper : zhournall
+l'après-midi : afternoon : lapray midi
+Souvent : Often : soovahnn
+Parfois : Sometimes/occasionally : parrfwah
+Lit : Bed : Lee
+Dors : Sleep, sleep/am sleeping, sleep/are sleeping : dorhh
+écoute : Listen : ehcyew
+Vêtements : Clothes/Clothing : vehtmaww
+Pantalon : Pants : pawtawlow
+Robe : Dress : roab
+Cher : Expensive/Dear : share
+Chère : Expensive/Beloved : share
+Chaussure : Shoe : showsuer
+Sac : Bag : sahca
+Jupe : Skirt : zhoop
+Prix : Price/Award/Prize : pree
+Coûte : Costs : cootuh
+Coûtent : (They) cost/are costing : cootuh
+Combien : How many/How much : combeeyuh
+De : of : dee (de)
+Du : of the/of/by the : dew (de la)
+Des : of the/from the : dehh
+Achète : Am buying/is buying/buy : uh-shet (I/He/She)
+Achètes : Are buying/is buying/buy : uh-shet (Tu)
+Achetez : (You) buy/buy/(you) Purchase : ah-shet-ay (Vous)
+Veste : Jacket : vehstuh (Feminine)
+Viens : Come/Am coming, come, come/are coming : veeyuhh (Je, Tu)
+Vient : is coming/comes : Veeyuhh (Name, Il/elle)
+Venons : come/are coming : veeyuhh (Nous)
+Viennent : Come/are coming : Yeeyehn (They)
+Jeune : young/young persons/little : juhnne
+Blond(f)e : Blond(e)/light : blawnde
+An(s) : is X year(s) old/year : awhh
+Quel : What/What an/what a : kell
+âge : age/years/era : ohj
+Quoi : What : kwahh
+Peux : Can/am able to/are able to : puhh
+Rue : Street : hroo (Feminine)
+Route : Road : hroot
+Important(f)e : Important/Large : uh-poor-tahnt
+Peux : Can/are(am) able to : puh
+Aller : to go/go/one-way ticket : alley
+y : There : Ee (CONTEXT:: Before Verb :: Oui, j'y vais. => Yes, I am going there.)
+Dois : Have to/must/owe : dowah
+Marcher : (to) walk/walk : marrshea
+Gauche : Left/a left : goosh (CONTEXT:: A Place! :: Je vais à gauche => I am going left)
+Près : close/near : preh
+Loin : far/far away : loowah
+Intéressant(f)e : interesting : uh-trellizont
+Derrièr(f)e : behind/after : dairr-ee-airh
+Immeuble : Building : ee-muhbluh
+Pont : Bridge/crabs : Pohnt
+Trouver : (to) find/be/feel : troovee
+Dangereus(f)e : Dangerous : dohn-zher-oose >> Feminine Plural is dangereuses, masculine is dangereux
+Lieu : place : lee-ew
+Marié(f)es : Married/Got-Gotten Married/Groom : mah-ree-ay (I/He/She)
+Marions : Married/Got Married : Mah-ree-ohn (Nous)
+Mariés : Married/Bride & Groom : mah-ree-ay (Tu)
+Mariez : Married/Got Married : Mah-ree-ay
+Marient : Married/Got Married : Mah-ree-eh
+Ensemble : Together : ohnsohmbleh
+Votre : Your : Vuhtre / Plural = Vos
+Notre : Our : Nohtre / Plural = Nos
+Tous (Les) : Every/Every Single(/Every/All) : toos-uh => Alone toos => Accompanied
+
+Matin : Morning : mahtah
+Petit Déjeuner : Breakfast : pehtee dezhonee
+Déjeuner : Lunch : dezhonee
+Dîner : Dinner : deenay
+
+Vert(f)e : Green/Stiff/Unripe : vairht
+Blanc(s): White/Caucasian : blah. / Blanche(s) : White/Pale/Snow (Feminine)
+Rouge : Red : rooghuh
+Brun : dark-haired/brown : brah
+
+Premi(m)er(f)ère : First : prehmiair
+Deuxi(m)(f)ème : Second : doozee-ehm
+Troisi(f)ème : Third : twah-zee-ehm
+
+Dimanche : Sunday : Deemohnshh
+Lundi : Monday : Lundee
+Mardi : Tuesday : mawdee
+Mercredi : Wednesday : maircwairdee
+Jeudi : Thursday : jeudee
+Vendredi : Friday : vohndruhdee
+Samedi : Saturday : sahmehdee
+
+Verb-vous = Yes/no, Vous Verb = Affirmation
+Some stuff, like De and Je and Te become d' and J' and T' and S' if presented BEFORE a vowel. d'Anna
+If it is Les then a vowel, pronouce the "zz" sound
+
+How old are you :: Quel âge as-tu ? 
+I like you :: Tu me plais
+I have fallen in love with you :: Je suis tombé amoureux de toi
+Do you want to dance with me :: Voulez-vous danser avec moi ?
+Do you come here often? :: Vous venez ici souvent ?
+Yes, Please :: Oui, s'il vous plaît. :: Yes, me->You please
+
+fille : girl/Daughter : fee
+femme : woman/wife : fem
+garçon : boy : gah Çaw
+homme : man : ohm
+chat : cat : shahh
+chien: dog : cheeyuh
+cheval : horse : shehval
+université : College : uune ih vurr sih teeee (Feminine)
+Universités : Universities/Colleges/Higher Education : une ih vurr sih tee
+étudiant : student : Eh tchu dee-yahh (Masculine)
+étudiante : Student : Eh tchu dee-yahhnt (Feminine)
+professeur : Teacher : prah fess urr (Masculine)
+journaliste : Journalist : jornuh leesta
+Père : Father : paihrr 
+Mère : Mother : mhairr
+Frère : Brother : Fhrayr
+sœur : Sister : Saihrr
+Famille : Family : Fahmii (Feminine)
+Parents : Parents : Pawww
+Fils : Son/Wires/Lines : Fee-suh
+Bébé : Baby : beh bee
+Ami : Friend : Ahmee (Masuline)
+Amie : Friend : Ahmee (Feminine)
+
+Un  : Uh
+Deux: Doo
+Trois: Twah
+Quatre : Cat-hh
+Cinq : Sainqh
+Six : Cease
+Sept : Set-uh
+Huit : Weetuh
+Neuf : Neuff
+Dix : Deece
+-----------------
+Onze : awhhnzuh
+Douze : dooezzuh
+Traize : traihhzuh
+Quatorze : Cahtohzuhh
+Quinze : Kannzuh
+Seize : Says
+Dix-sept : Deecet
+Dix-huit : Deezweet
+Dix-neuf : Deeznuff
+Vingt : Vah.
+
+This/That: Ce (Masculine) / Cet (Masculing before Vowel/H) / Cette (Feminine)
+These/Those : Ces / Ces : Ces
+
+è : Ay
+é : Eeee/Eh
+ô : Oh
+ç : SSSSS
+au : Oh
+oi : wah
+a : ah
+ui : ooh wee
+ien : ee yuh
+ain: eh.
+on : ouh
+eau: ooh
+u : ooh
+die: Dee
+ge : geh
+(oe)u : uhh (Like Ew)
+
+espagnol : Spanish : Es pan yollla (Masculine)
+espagnole : Spanish: Es pan yolla (Feminine)
+américain : American : americayn (Masculine)
+américaine : American : Americayn (Feminine)
+mexicain : Mexican : Mexicaynn (Masculine)
+Mexicaine : Mexican : Mexicaynneh (Feminine)
+anglais : English : ahn glaze (Masculine)
+anglaise : English : ahn glaze (Feminine)
+Japonais(f)e : Japansese : jawpoenay
+Canadien(f)ne : Canadian : can-aid-ee-anne
+Italie(f)ne : Italian : ih-tal-ee-ehnn
+Plural = {term}+s
+
+Espagne : Spain : Es pahnya
+Angleterre : England : Ohngleh tair
+Italie : Italy : Italy
+Mexique : Mexico : Meckseek
+Japon : Japan : Juhpaww
+Bresil : Brazil : Breh cie
+Étas-Unis : United States : Aytah-zewneee (Always Plural)
+
+à : In/To/On/About : Uh
+En : In/By : Uh (Countries)
+Nous : We/to one another/to each other : Nooh
+Il : He : Eel
+Elle : She : Ell
+Toi : You : Twah (Refer directly to person you are talking to)
+Tu : You : Tew (Followed by a verb (Tu manges; tu parle anglais?)
+Je : I : Juh
+Suis: Am : Soo wee
+Es : Are : uh
+Un : A : Uh (Masculine)
+Une : A/An/One : oon (Feminine)
+Des : Some/From : Dee (Plural)
+le : The : leh (Feminine)
+la : The : lah (Masculine)
+c'est : It's/it is : Say
+l' : The : luh : Attached to vowel
+d' : 's, about, from : Attached to Vowel
+le : The : luh (Masculine)
+la : The : lahh(Feminine)
+et : And : ay (can be silent)
+est : Is : eh (can be silent)
+Sont : are/feel/is : Saww (Plural)
+Sommes : We are/we're/there are ... (of us)/are/feel : summ-uh
+êtes : (you) are/are/feel : Ehtt (Vous) 
+Va : is going : Vahh : Name/Il/Elle
+Vas : go/are going/'re going : Vahh : Tu
+Vais : am going : vayh : Je
+Vont : Are going/Going/go : vaww
+Allons : (we) go/are going/'re going/let's go : allohhn : Nous
+Allez : Are Going/go : Allay
+Ai : have : ay : Je
+A : Have : Uh  : Name/Il/Elle
+As : have/are (tempurature) : Tu
+as : have : ah. : Tu
+Avez : Have/Get : ah-vay : Vous
+De : by/with/about : dewhh
+Au : To/to the/in : oh. (va. Also, removes la/le)
+Aux : To the/To/Of The
+
+Profanity:
+Putain : F*ck| Putain de merde -> F*cking sh*t
+Merde : Sh*t |
+Va te faire foutre : Go f*ck yourself
+Baiser : To f*ck
+-----------
+Saloppe : B*tch
+Pute : B*tch/Whore/Slut (Really bad!)
+Fils de pute : Son of a b*tch
+-----------
+Con(f)ne/Connard/Connasse : A**hole
+-----------
+Casse-toi : Leave!      | Rude!
+Dégage : Leave!         | Rude!
+Ferme ta gueule : Leave!| Shut your trap!
+-----------
