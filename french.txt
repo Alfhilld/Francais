@@ -323,6 +323,16 @@ Tôt : Early : tooh
 Tard : Late : Tahh
 Rentrer : go home/go back : rhawntee
 Rentre : Home/Go(ing) home, go back/am going back : rawntre
+Horloge : Clock :  #####
+Devez : Have to/Must : devay
+Frigo : Fridge : #####
+Lait : Milk : #####
+Sucre : Sugar : soocre
+Peu : little/few : pooh
+Trop : too much/too : troh
+Sel : Salt : #####
+Salle de bain : Bathroom : #####
+Placard : Cupboards : #####
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
