@@ -240,6 +240,7 @@ Numéro : Cell Phone/Number : noomehroe
 Jour : Day : joohr
 Chaque : Every/each : shaq-yuh
 Regarde : Watches/is watching/am looking at : oigohd
+Avant : Before : ah-vaww
 Après : After/afterwards : uh-pray
 Enfant : Child/kid : awh-fawh
 Soir : In the Evening/at night/in the evenings, (no le) evening/night : swah
@@ -313,8 +314,18 @@ Quand : When : Kaw
 Semaine : Week : suh-mehnuh
 Qui : Who : Kee
 Problème : Problem/Issue/Condition : prawblehm
+chambre : Bedroom : shombre
+Midi : Noon : Meedee
+Sortir : To go out/To Leave/Going Out : soh-teer
+Sors : Am leaving/Am going out : sahh
+Chez : 's/at/place : sheh
+Tôt : Early : tooh
+Tard : Late : Tahh
+Rentrer : go home/go back : rhawntee
+Rentre : Home/Go(ing) home, go back/am going back : rawntre
 
 Matin : Morning : mahtah
+Minuit : Midnight : mee-nooweer
 Petit Déjeuner : Breakfast : pehtee dezhonee
 Déjeuner : Lunch : dezhonee
 Dîner : Dinner : deenay
