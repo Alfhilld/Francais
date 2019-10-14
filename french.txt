@@ -178,7 +178,7 @@ Voyage : Travel/Am//Is traveling : voi yahhj
 Voyages : Travel/Traveling//Travel/ARe travelling/Traveling : Voi Yahhj
 Voyager : To Travel : Voi Yahhjayy
 Voyagent : (They) Are traveling/Travel/ travel : voi yahhjj
-Voyageons
+Voyageons : (They) Are Traveling/Travel : voi yahhjoh
 Vacances : Vacations/Vacation : vah cawwsa (Plural)
 Musée : Museum : mewzee (Masculine)
 Plage : Beach : plahj (Feminine)
@@ -323,16 +323,16 @@ Tôt : Early : tooh
 Tard : Late : Tahh
 Rentrer : go home/go back : rhawntee
 Rentre : Home/Go(ing) home, go back/am going back : rawntre
-Horloge : Clock :  #####
+Horloge : Clock :  Or-lohjj
 Devez : Have to/Must : devay
-Frigo : Fridge : #####
-Lait : Milk : #####
+Frigo : Fridge : Freego
+Lait : Milk : Lehh
 Sucre : Sugar : soocre
 Peu : little/few : pooh
 Trop : too much/too : troh
-Sel : Salt : #####
-Salle de bain : Bathroom : #####
-Placard : Cupboards : #####
+Sel : Salt : Sel
+Salle de bain : Bathroom : Sahl deh bahhn
+Placard : Cupboards : Plah-cahhd
 Heureaux : Happy : #####
 Triste : Sad : treest
 Fâché : Mad : #####
@@ -370,9 +370,6 @@ Jeudi : Thursday : jeudee
 Vendredi : Friday : vohndruhdee
 Samedi : Saturday : sahmehdee
 
-<<<<<<< HEAD
-
-=======
 Janvier : January : Hanvee-air
 Février : February : Fehvree-air
 Mars : March : Mahss
@@ -390,7 +387,6 @@ L'hiver : Winter : #####
 Le printemps : Spring : #####
 L'été : Summer : #####
 Tomber : Fall : #####
->>>>>>> 2fa3348ebaf239c4c03df6ce3bc28b5d4f2096be
 
 Verb-vous = Yes/no, Vous Verb = Affirmation
 Some stuff, like De and Je and Te become d' and J' and T' and S' if presented BEFORE a vowel. d'Anna
