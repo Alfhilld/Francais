@@ -240,6 +240,7 @@ Numéro : Cell Phone/Number : noomehroe
 Jour : Day : joohr
 Chaque : Every/each : shaq-yuh
 Regarde : Watches/is watching/am looking at : oigohd
+Avant : Before : ah-vaww
 Après : After/afterwards : uh-pray
 Enfant : Child/kid : awh-fawh
 Soir : In the Evening/at night/in the evenings, (no le) evening/night : swah
@@ -313,16 +314,49 @@ Quand : When : Kaw
 Semaine : Week : suh-mehnuh
 Qui : Who : Kee
 Problème : Problem/Issue/Condition : prawblehm
+chambre : Bedroom : shombre
+Midi : Noon : Meedee
+Sortir : To go out/To Leave/Going Out : soh-teer
+Sors : Am leaving/Am going out : sahh
+Chez : 's/at/place : sheh
+Tôt : Early : tooh
+Tard : Late : Tahh
+Rentrer : go home/go back : rhawntee
+Rentre : Home/Go(ing) home, go back/am going back : rawntre
+Horloge : Clock :  #####
+Devez : Have to/Must : devay
+Frigo : Fridge : #####
+Lait : Milk : #####
+Sucre : Sugar : soocre
+Peu : little/few : pooh
+Trop : too much/too : troh
+Sel : Salt : #####
+Salle de bain : Bathroom : #####
+Placard : Cupboards : #####
+Heureaux : Happy : #####
+Triste : Sad : treest
+Fâché : Mad : #####
+Confus : Confused : #####
+Enthousiaste : Excited : #####
+Oiseau : Bird : Wahsoo
 
 Matin : Morning : mahtah
+Minuit : Midnight : mee-nooweer
 Petit Déjeuner : Breakfast : pehtee dezhonee
 Déjeuner : Lunch : dezhonee
 Dîner : Dinner : deenay
 
 Vert(f)e : Green/Stiff/Unripe : vairht
 Blanc(s): White/Caucasian : blah. / Blanche(s) : White/Pale/Snow (Feminine)
+Noir : Black : no-awrh
 Rouge : Red : rooghuh
+Orange : Orange : ohr-awnj
+Jaune : Yellow : Zhoon
+Violet(f)te : Purple : Vie-oh-let(te)
+Rose : Pink : hrose
+Bleu : Blue : blu
 Brun : dark-haired/brown : brah
+Marron : Brown : mah-rrohn
 
 Premi(m)er(f)ère : First : prehmiair
 Deuxi(m)(f)ème : Second : doozee-ehm
@@ -336,19 +370,27 @@ Jeudi : Thursday : jeudee
 Vendredi : Friday : vohndruhdee
 Samedi : Saturday : sahmehdee
 
-Les mois de l'année:
-Janvier : zhawnvee-air
-Février : fehv-ree-air
-Mars : Marss
-Avril : ah-vreel
-Mai : mai
-Juin : Jwahn
-Julliet : Zhoolee-ette
-Août : oot
-Septembre : sept-ohm-bre
-Octobre : octobre
-Novembre : Nohvuhmbre
-Décembre : duh-cohm-breh
+<<<<<<< HEAD
+
+=======
+Janvier : January : Hanvee-air
+Février : February : Fehvree-air
+Mars : March : Mahss
+Avril : April : Ah-vreel
+Mai : May : Mai
+Juin : June : Zhoon
+Juillet : July : Joolee-et
+Août : August : Oot
+Septembre : September : Sept-ohm-bre
+Octobre : October : Octo-bre
+Novembre : November : Noh-vehm-bre
+Décembre : December : Dee-suhm-bre
+
+L'hiver : Winter : #####
+Le printemps : Spring : #####
+L'été : Summer : #####
+Tomber : Fall : #####
+>>>>>>> 2fa3348ebaf239c4c03df6ce3bc28b5d4f2096be
 
 Verb-vous = Yes/no, Vous Verb = Affirmation
 Some stuff, like De and Je and Te become d' and J' and T' and S' if presented BEFORE a vowel. d'Anna
