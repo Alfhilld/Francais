@@ -336,6 +336,20 @@ Jeudi : Thursday : jeudee
 Vendredi : Friday : vohndruhdee
 Samedi : Saturday : sahmehdee
 
+Les mois de l'année:
+Janvier : zhawnvee-air
+Février : fehv-ree-air
+Mars : Marss
+Avril : ah-vreel
+Mai : mai
+Juin : Jwahn
+Julliet : Zhoolee-ette
+Août : oot
+Septembre : sept-ohm-bre
+Octobre : octobre
+Novembre : Nohvuhmbre
+Décembre : duh-cohm-breh
+
 Verb-vous = Yes/no, Vous Verb = Affirmation
 Some stuff, like De and Je and Te become d' and J' and T' and S' if presented BEFORE a vowel. d'Anna
 If it is Les then a vowel, pronouce the "zz" sound
