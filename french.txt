@@ -317,7 +317,7 @@ Problème : Problem/Issue/Condition : prawblehm
 chambre : Bedroom : shombre
 Midi : Noon : Meedee
 Sortir : To go out/To Leave/Going Out : soh-teer
-Sors : Am leaving/Am going out : sahh
+Sors : Am leaving/Am going out : sohhrh
 Chez : 's/at/place : sheh
 Tôt : Early : tooh
 Tard : Late : Tahh
@@ -370,9 +370,6 @@ Jeudi : Thursday : jeudee
 Vendredi : Friday : vohndruhdee
 Samedi : Saturday : sahmehdee
 
-<<<<<<< HEAD
-
-=======
 Janvier : January : Hanvee-air
 Février : February : Fehvree-air
 Mars : March : Mahss
@@ -390,7 +387,6 @@ L'hiver : Winter : #####
 Le printemps : Spring : #####
 L'été : Summer : #####
 Tomber : Fall : #####
->>>>>>> 2fa3348ebaf239c4c03df6ce3bc28b5d4f2096be
 
 Verb-vous = Yes/no, Vous Verb = Affirmation
 Some stuff, like De and Je and Te become d' and J' and T' and S' if presented BEFORE a vowel. d'Anna
