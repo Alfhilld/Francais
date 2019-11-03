@@ -19,7 +19,7 @@ Mangez : Are eating : Mohnj : Vous
 Mangeons : Are Eating/We Eat : Mohnjuhhn : Nous
 Mangent : Are eating : Mohnjhh : They
 Parle : Speak/is speaking : Parr leh (Je)
-Parles : Is speaking : Parr leh : Est-ce que tu parles français : Do you speak French (Tu/Il/Elle)
+Parles : Is speaking : Parr leh : ce que tu parles français : Do you speak French (Tu/Il/Elle)
 Parlez : Is speaking : Parr leh (Vous)
 Parlent: Speak : Parr leh (They)
 Excusez-moi : Excuse me : excuseh mwahh (Formal)
@@ -91,6 +91,7 @@ Aimons : We like (things)/we love (people/pets)/like/love : ay mohm : (We)
 Aiment : Like/Love : ay mohm : (They)
 Lire : (To) Read/read/reading
 Lis : Read, read/am reading, read/are reading : lee
+Lisent : They Read : leezh
 Lisez : (y'all) read/read : leezee
 Banque : Bank : bohnk
 école : School : eh cull
@@ -231,6 +232,8 @@ Ordinateur : Computer : ohrdeenuhteur
 Lettre : Letter : lehtre
 Stylo : Pen : Steehloh
 écris : write/am writing, write/are writing : e-cree
+écrit : Writes/Is Writing : Ehcree
+écrivent : Write/Are Writing : Ehcreev
 Sur : On/For/As : seur
 Portable : Cell Phone : pohrtableh
 Message : Message/Text : mess-ahj
@@ -249,7 +252,7 @@ Journal : Newspaper : zhournall
 l'après-midi : afternoon : lapray midi
 Souvent : Often : soovahnn
 Parfois : Sometimes/occasionally : parrfwah
-Lit : Bed : Lee
+Lit : Bed/Read/Is Reading : Lee   |   if "(I, They, He, She) is/am reading", (person) (to be) en train de lire -> Je suis en train de lire
 Dors : Sleep, sleep/am sleeping, sleep/are sleeping : dorhh
 écoute : Listen : ehcyew
 Vêtements : Clothes/Clothing : vehtmaww
@@ -266,7 +269,7 @@ Coûtent : (They) cost/are costing : cootuh
 Combien : How many/How much : combeeyuh
 De : of : dee (de)
 Du : of the/of/by the : dew (de la)
-Des : of the/from the : dehh
+Des : of the/from the/Some : dehh
 Achète : Am buying/is buying/buy : uh-shet (I/He/She)
 Achètes : Are buying/is buying/buy : uh-shet (Tu)
 Achetez : (You) buy/buy/(you) Purchase : ah-shet-ay (Vous)
@@ -333,12 +336,54 @@ Trop : too much/too : troh
 Sel : Salt : Sel
 Salle de bain : Bathroom : Sahl deh bahhn
 Placard : Cupboards : Plah-cahhd
-Heureaux : Happy : #####
+Heureaux : Happy : ee-ourhh
 Triste : Sad : treest
-Fâché : Mad : #####
-Confus : Confused : #####
+Fâché : Mad : fahhsh
+Confus : Confused : cohnfuh
 Enthousiaste : Excited : #####
 Oiseau : Bird : Wahsoo
+Boire : Je/Tu/Il,elle,on/Nous/Vous/They : Bois/Bois/Boit/Buvons/Buvez/Boivent : To Drink : Bwah/Boovohhn/Boovay/Bwahvh
+Court(ent) : runs, short, is running : Cohhrh
+Nager : To Read : Nayjee
+Nage(Je/Il/Egge) : Read : Nahjj
+Nages : You Read : Nahjj
+Nageons : We Read : Nahjjohhn
+Nagent : They Read : Nahhjh
+Riz : Rice : hree
+Conduire : To drive/lead/conduct : Cond-yoo-uh
+Conduis (Je/Tu) : Drive/am driving : Cohndwee
+Conduit (Il/Elle) : Drives/is driving : cohnduwee
+Conduisons : Are Driving : Cohndweesohn
+Conduisez : Are driving : Cohndweezay
+Conduisent : Are Driving : cohndweeze
+Marcher : To Walk/To Work/To Step
+Marche (Je/Il/Elle) : Walk/Step : Mahrhsh
+Marches : Are walking/Walk : Marhsh
+Marchons : Are walking : Mahrshohn
+Marchez : Are walking : Mahrshay
+Marchent : Are Walking : Mahshh
+Poisson : Fish : pwahsohhn
+Dormir : To sleep: Dohrmeehr
+Dors (Je/Tu) : Sleep, are sleeping : dohhr
+Dort (il/elle) : Sleeps/Is sleeping : Dohhr
+Dormons : Are sleeping/Sleep : Dohhrmawhh
+Dormez : Are sleeping/sleep : Dohhrmay
+Dorment : Are sleeping/Sleep : Dohhrm-uh
+Adulte : Adult : Ahdoolteh
+Quand : When : Cawhh
+élève : Student : Eelehvv
+Pull : Sweater : peulluh
+Malad : Sick : muhladd
+Ballon : Ball : Bahllohh
+Herbe : Grass : airhb
+Ciel : Sky : seel
+Lune : Moon : Loohn
+Soleil : Sun : Sohlay
+Gros(ses) : Large : g-roh
+Policier : Police Officer : puhleesee-ay
+Maître : Master : maytre
+Maîtresse : Mistress : Maytress
+
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
@@ -346,12 +391,12 @@ Petit Déjeuner : Breakfast : pehtee dezhonee
 Déjeuner : Lunch : dezhonee
 Dîner : Dinner : deenay
 
-Vert(f)e : Green/Stiff/Unripe : vairht
+Vert(f)e : Green/Stiff/Unripe : vairh
 Blanc(s): White/Caucasian : blah. / Blanche(s) : White/Pale/Snow (Feminine)
 Noir : Black : no-awrh
-Rouge : Red : rooghuh
+Rouge : Red : hroojhuh
 Orange : Orange : ohr-awnj
-Jaune : Yellow : Zhoon
+Jaune : Yellow : Zhohn
 Violet(f)te : Purple : Vie-oh-let(te)
 Rose : Pink : hrose
 Bleu : Blue : blu
