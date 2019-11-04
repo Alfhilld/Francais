@@ -383,7 +383,12 @@ Gros(ses) : Large : g-roh
 Policier : Police Officer : puhleesee-ay
 Maître : Master : maytre
 Maîtresse : Mistress : Maytress
-
+Faire : To Do/To Make/To Get : Fayhr
+Fais (Je/tu) : Do/Make/Am doing/Am making : fay
+Fait (il/elle) : Are doing/are making : Fay
+Faisons : Are making/Are doing/ Do : Faysohhn
+Faites (Vous) : Are doing/making/ Make : Faehht
+Font (They) : Are making/Are doing/ Do/ Make : foouhh
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
