@@ -191,7 +191,8 @@ Voisin : Neighbours/Nearby (Plural) : voizon
 Il y a : There Is/There Are/Ago : Eel ee yuh ::: Il > It/He : Y > There/About : A > Has/Have
 Vache : Cow : Vahshh
 Fenêtre : Window : Fehnetre (Feminine)
-Porte : Door : Poert
+Porte : Door/Is wearing : Poert
+Portent.
 Ouvre  : Open (up)/am opening (up)/Undo/Am undoing : Oovre (J'Ouvre)
 Ouvres : Open/Are Opening, Open up/Are opening up, open the door/are opening the door : Oovre (Tu ouvre)
 Ouvrons: Open/Are Opening, Undo/Are Undoing, Turn On/Are Turning On : Oovrawhh
@@ -389,6 +390,14 @@ Fait (il/elle) : Are doing/are making : Fay
 Faisons : Are making/Are doing/ Do : Faysohhn
 Faites (Vous) : Are doing/making/ Make : Faehht
 Font (They) : Are making/Are doing/ Do/ Make : foouhh
+Clé : Key : Keeh
+Balle : Ball : bahll
+y a t-il : Is there/Are there : ee-ah-teel
+Assiette : Plate : Ah-see-ette
+Bol : Bowl : Bohll
+Chemise(f)r : Shirt : shuhmeez
+Manteau : Coat : Mohntoo
+Chapeau : Hat : shahpohh
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
