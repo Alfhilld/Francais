@@ -168,7 +168,10 @@ Vélo : Bicycle : vehh loo
 Ville : City : veehl (Feminine)
 Fermé : Closed/Closed up/Shut : Fairmee
 Aujourd'hui : Today : oh jour dweee
-Nom : Name : Nooh
+Hier : Yesterday : ee-air
+Demain : Tomorrow : Deemaw
+Prénom : First name : praynohm
+Nom : Name/Last Name : Nooh
 Visiter : (to) visit, walks : vee zeet-ay
 Visite : Visit/Am visiting : vih zeet (I/He/She/It)
 Visites : (Visit/View/Inspect)/are (Visiting/viewing/inspecting) : vee zeet (Tu)
@@ -275,17 +278,19 @@ Viens : Come/Am coming, come, come/are coming : veeyuhh (Je, Tu)
 Vient : is coming/comes : Veeyuhh (Name, Il/elle)
 Venons : come/are coming : veeyuhh (Nous)
 Viennent : Come/are coming : Yeeyehn (They)
+Venez : Are coming/come : vuhnee
 Jeune : young/young persons/little : juhnne
 Blond(f)e : Blond(e)/light : blawnde
 An(s) : is X year(s) old/year : awhh
-Quel : What/What an/what a : kell
+Quel : What/What an/what a : kell (Masculine)
+Quelle : What/What a/Which : kell (Feminine)
 âge : age/years/era : ohj
 Quoi : What : kwahh
 Peux : Can/am able to/are able to : puhh
+Pouvez : can/are able to : poovay
 Rue : Street : hroo (Feminine)
 Route : Road : hroot
 Important(f)e : Important/Large : uh-poor-tahnt
-Peux : Can/are(am) able to : puh
 Aller : to go/go/one-way ticket : alley
 y : There : Ee (CONTEXT:: Before Verb :: Oui, j'y vais. => Yes, I am going there.)
 Dois : Have to/must/owe : dowah
@@ -333,12 +338,55 @@ Trop : too much/too : troh
 Sel : Salt : Sel
 Salle de bain : Bathroom : Sahl deh bahhn
 Placard : Cupboards : Plah-cahhd
-Heureaux : Happy : #####
+Heureaux : Happy : Aireh-hoo
 Triste : Sad : treest
-Fâché : Mad : #####
-Confus : Confused : #####
-Enthousiaste : Excited : #####
-Oiseau : Bird : Wahsoo
+Fâché : Mad : Fahshe
+Confus : Confused : Cohnfoo
+Enthousiaste : Excited : Awhthoozeeast
+Oiseau : Bird : Wayzoo
+Montré: Showed/Shown, Presented, Demonstrated : Mohntre
+Chef-d'œuvre : Masterpiece : Shef-duhvre
+Grandes : Seniours : Grahnde
+Leur : Their, them, from them : loura
+Demandé : Asked, Asked for, Requested : deh-mohn-dey
+Demander : (to) ask, (to) ask for : Deh-mohn-dey
+Dessin : Drawing, Design, Layout : Dehsahh
+Faire : Do, come, cut : Faihr vv
+Faisait : Came, Cut, Did : fuhzay
+Peur : Fear, Afraid, Scared : Peurr
+On : We : ohhn
+Dire : Said, Say, Tell : Deeyaw
+Disait : (he/she/it:) was saying, said, was telling : Deezay
+Avalent : Swallow : ahvahluh
+Proie : Prey/Quarry/Decoy : Pwah
+Entière : Whole/Full/Total/Undivided : Awhnteeair
+Sans : Without/Wanting : sawhh
+Mâcher : Chew/Masticate/Gum/Bite : mahshey
+Ensuite : Then/Next : Awnsweetuh
+Bouger : (to:) Move, sir, get out of the way : boozjay
+Dormir : (to) sleep, sleeping : doh-meerh
+Pendant : For, during, while : pawndaw
+Monsieur : Sir/Mr. : meuhseeyeeur
+Mademoiselle : Miss : Madmoizell (Child)
+Madame : Ma'am, Mrs. : mah dahm
+Boire : To Drink/Drinking/Drank : bwahrh
+Quelque Chose : Something/Anything : kellk(oo)
+Chose : something/thing : Shooz(uh)
+Nationalité : Nationality : nationaleetay
+Profession : profession : pohfession (Feminine)
+Destination : Destination : dess-tee-nah-tyon (Feminine)
+Bagages : Luggage/Luggage (Always Singular) : bah gahjj
+Question : Question : kehhstee-ohh (Feminine)
+Attendre : To Wait/Wait/To Wait For : ah-tohndre
+Vol : Flight/Theft/Robbery : vohll
+Retard : Delay : rehtahh
+En Retard : Late : Uhh retahh
+
+(Combination of que and a vowel -> Est-ce que elles... Est-ce qu'elles)
+Est-ce Que : Is it that? : es-kuh:::  Ex. Tu es français(e). -> Est-ce que tu es français(e)?
+: Qui Est-ce : Kee-ess : Who is that/Who is it 
+: Qu'est ce que c'est : Kess-ku-say : What is that/ It is what
+: 
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
