@@ -392,7 +392,7 @@ Est-ce Que : Is it that? : es-kuh:::  Ex. Tu es français(e). -> Est-ce que tu e
 : Qui Est-ce : Kee-ess : Who is that/Who is it
 : Qu'est ce que c'est : Kess-ku-say : What is that/ It is what
 :
-=======
+
 Heureaux : Happy : ee-ourhh
 Triste : Sad : treest
 Fâché : Mad : fahhsh
@@ -454,7 +454,6 @@ Bol : Bowl : Bohll
 Chemise(f)r : Shirt : shuhmeez
 Manteau : Coat : Mohntoo
 Chapeau : Hat : shahpohh
->>>>>>> 0371f68a112625d101d42d6bb39636a473b322fa
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
