@@ -33,7 +33,7 @@ J'etudie : I am studying : jeh Tu Dee : Je
 étudions : Are Studying/Study : ehtudee-oh : Nous
 étudiez : Study/Are Studying : ehtudee-ay
 étudient : Study : eh tu dee : They
-étudier : To Study : eh tu dee 
+étudier : To Study : eh tu dee
 Habitez : Live : ahbeetay
 Habites : Live in/are living in : Ah Bee tuh (Tu)
 Habite : Lives/is living : ah beet uh : Je/Il/Elle
@@ -50,7 +50,7 @@ Avec : With : uhveq
 restaurant : Restaurant : Rest aww ront
 Gare : Train Station/Station/Park/is Parking(v) : gah (Feminine)
 Avion : Plane : aviaww
-Aéroport : Airport : ayeo porr 
+Aéroport : Airport : ayeo porr
 Hôtel : Hotel : oh tell (Masculine)
 voiture : Car : vwah tew (Feminine)
 train : Train : trah (Masculine)
@@ -91,6 +91,7 @@ Aimons : We like (things)/we love (people/pets)/like/love : ay mohm : (We)
 Aiment : Like/Love : ay mohm : (They)
 Lire : (To) Read/read/reading
 Lis : Read, read/am reading, read/are reading : lee
+Lisent : They Read : leezh
 Lisez : (y'all) read/read : leezee
 Banque : Bank : bohnk
 école : School : eh cull
@@ -105,7 +106,7 @@ Chocolat : Chocolate : chahko lot
 Bus : Bus : Bus
 Zoo : Zoo : Zooh
 Cinéma : Movie Theatre/movies : See nuh muh (Masculine)
-Au : to the/to/from the : oh. 
+Au : to the/to/from the : oh.
 Mon : My : Moh (Masculine)
 Ma : My : Mah (Feminine)
 Mes : My : Mee (Plural)
@@ -123,7 +124,7 @@ Animal : Pet (animal de compagnie)/animal : Ahneemahll
 Chouette : Owl : Shhwehtt (Feminine)
 Maison : House : Mayhhzah
 Jardin : Garden : Jharduh
-Appartement : Appartment : Appartemoh 
+Appartement : Appartment : Appartemoh
 Dans : in/on/from : daww
 Ce : These/They : Sœu : Ce sont mes parents (These are my parents)
 Intelligente : Intelligent/Clever/Smart : uh telle janteh (Feminine)
@@ -193,7 +194,8 @@ Voisin : Neighbours/Nearby (Plural) : voizon
 Il y a : There Is/There Are/Ago : Eel ee yuh ::: Il > It/He : Y > There/About : A > Has/Have
 Vache : Cow : Vahshh
 Fenêtre : Window : Fehnetre (Feminine)
-Porte : Door : Poert
+Porte : Door/Is wearing : Poert
+Portent.
 Ouvre  : Open (up)/am opening (up)/Undo/Am undoing : Oovre (J'Ouvre)
 Ouvres : Open/Are Opening, Open up/Are opening up, open the door/are opening the door : Oovre (Tu ouvre)
 Ouvrons: Open/Are Opening, Undo/Are Undoing, Turn On/Are Turning On : Oovrawhh
@@ -234,6 +236,8 @@ Ordinateur : Computer : ohrdeenuhteur
 Lettre : Letter : lehtre
 Stylo : Pen : Steehloh
 écris : write/am writing, write/are writing : e-cree
+écrit : Writes/Is Writing : Ehcree
+écrivent : Write/Are Writing : Ehcreev
 Sur : On/For/As : seur
 Portable : Cell Phone : pohrtableh
 Message : Message/Text : mess-ahj
@@ -252,7 +256,7 @@ Journal : Newspaper : zhournall
 l'après-midi : afternoon : lapray midi
 Souvent : Often : soovahnn
 Parfois : Sometimes/occasionally : parrfwah
-Lit : Bed : Lee
+Lit : Bed/Read/Is Reading : Lee   |   if "(I, They, He, She) is/am reading", (person) (to be) en train de lire -> Je suis en train de lire
 Dors : Sleep, sleep/am sleeping, sleep/are sleeping : dorhh
 écoute : Listen : ehcyew
 Vêtements : Clothes/Clothing : vehtmaww
@@ -269,7 +273,7 @@ Coûtent : (They) cost/are costing : cootuh
 Combien : How many/How much : combeeyuh
 De : of : dee (de)
 Du : of the/of/by the : dew (de la)
-Des : of the/from the : dehh
+Des : of the/from the/Some : dehh
 Achète : Am buying/is buying/buy : uh-shet (I/He/She)
 Achètes : Are buying/is buying/buy : uh-shet (Tu)
 Achetez : (You) buy/buy/(you) Purchase : ah-shet-ay (Vous)
@@ -338,6 +342,7 @@ Trop : too much/too : troh
 Sel : Salt : Sel
 Salle de bain : Bathroom : Sahl deh bahhn
 Placard : Cupboards : Plah-cahhd
+<<<<<<< HEAD
 Heureaux : Happy : Aireh-hoo
 Triste : Sad : treest
 Fâché : Mad : Fahshe
@@ -384,9 +389,72 @@ En Retard : Late : Uhh retahh
 
 (Combination of que and a vowel -> Est-ce que elles... Est-ce qu'elles)
 Est-ce Que : Is it that? : es-kuh:::  Ex. Tu es français(e). -> Est-ce que tu es français(e)?
-: Qui Est-ce : Kee-ess : Who is that/Who is it 
+: Qui Est-ce : Kee-ess : Who is that/Who is it
 : Qu'est ce que c'est : Kess-ku-say : What is that/ It is what
-: 
+:
+=======
+Heureaux : Happy : ee-ourhh
+Triste : Sad : treest
+Fâché : Mad : fahhsh
+Confus : Confused : cohnfuh
+Enthousiaste : Excited : #####
+Oiseau : Bird : Wahsoo
+Boire : Je/Tu/Il,elle,on/Nous/Vous/They : Bois/Bois/Boit/Buvons/Buvez/Boivent : To Drink : Bwah/Boovohhn/Boovay/Bwahvh
+Court(ent) : runs, short, is running : Cohhrh
+Nager : To Read : Nayjee
+Nage(Je/Il/Egge) : Read : Nahjj
+Nages : You Read : Nahjj
+Nageons : We Read : Nahjjohhn
+Nagent : They Read : Nahhjh
+Riz : Rice : hree
+Conduire : To drive/lead/conduct : Cond-yoo-uh
+Conduis (Je/Tu) : Drive/am driving : Cohndwee
+Conduit (Il/Elle) : Drives/is driving : cohnduwee
+Conduisons : Are Driving : Cohndweesohn
+Conduisez : Are driving : Cohndweezay
+Conduisent : Are Driving : cohndweeze
+Marcher : To Walk/To Work/To Step
+Marche (Je/Il/Elle) : Walk/Step : Mahrhsh
+Marches : Are walking/Walk : Marhsh
+Marchons : Are walking : Mahrshohn
+Marchez : Are walking : Mahrshay
+Marchent : Are Walking : Mahshh
+Poisson : Fish : pwahsohhn
+Dormir : To sleep: Dohrmeehr
+Dors (Je/Tu) : Sleep, are sleeping : dohhr
+Dort (il/elle) : Sleeps/Is sleeping : Dohhr
+Dormons : Are sleeping/Sleep : Dohhrmawhh
+Dormez : Are sleeping/sleep : Dohhrmay
+Dorment : Are sleeping/Sleep : Dohhrm-uh
+Adulte : Adult : Ahdoolteh
+Quand : When : Cawhh
+élève : Student : Eelehvv
+Pull : Sweater : peulluh
+Malad : Sick : muhladd
+Ballon : Ball : Bahllohh
+Herbe : Grass : airhb
+Ciel : Sky : seel
+Lune : Moon : Loohn
+Soleil : Sun : Sohlay
+Gros(ses) : Large : g-roh
+Policier : Police Officer : puhleesee-ay
+Maître : Master : maytre
+Maîtresse : Mistress : Maytress
+Faire : To Do/To Make/To Get : Fayhr
+Fais (Je/tu) : Do/Make/Am doing/Am making : fay
+Fait (il/elle) : Are doing/are making : Fay
+Faisons : Are making/Are doing/ Do : Faysohhn
+Faites (Vous) : Are doing/making/ Make : Faehht
+Font (They) : Are making/Are doing/ Do/ Make : foouhh
+Clé : Key : Keeh
+Balle : Ball : bahll
+y a t-il : Is there/Are there : ee-ah-teel
+Assiette : Plate : Ah-see-ette
+Bol : Bowl : Bohll
+Chemise(f)r : Shirt : shuhmeez
+Manteau : Coat : Mohntoo
+Chapeau : Hat : shahpohh
+>>>>>>> 0371f68a112625d101d42d6bb39636a473b322fa
 
 Matin : Morning : mahtah
 Minuit : Midnight : mee-nooweer
@@ -394,12 +462,12 @@ Petit Déjeuner : Breakfast : pehtee dezhonee
 Déjeuner : Lunch : dezhonee
 Dîner : Dinner : deenay
 
-Vert(f)e : Green/Stiff/Unripe : vairht
+Vert(f)e : Green/Stiff/Unripe : vairh
 Blanc(s): White/Caucasian : blah. / Blanche(s) : White/Pale/Snow (Feminine)
 Noir : Black : no-awrh
-Rouge : Red : rooghuh
+Rouge : Red : hroojhuh
 Orange : Orange : ohr-awnj
-Jaune : Yellow : Zhoon
+Jaune : Yellow : Zhohn
 Violet(f)te : Purple : Vie-oh-let(te)
 Rose : Pink : hrose
 Bleu : Blue : blu
@@ -440,7 +508,7 @@ Verb-vous = Yes/no, Vous Verb = Affirmation
 Some stuff, like De and Je and Te become d' and J' and T' and S' if presented BEFORE a vowel. d'Anna
 If it is Les then a vowel, pronouce the "zz" sound
 
-How old are you :: Quel âge as-tu ? 
+How old are you :: Quel âge as-tu ?
 I like you :: Tu me plais
 I have fallen in love with you :: Je suis tombé amoureux de toi
 Do you want to dance with me :: Voulez-vous danser avec moi ?
@@ -460,7 +528,7 @@ Universités : Universities/Colleges/Higher Education : une ih vurr sih tee
 étudiante : Student : Eh tchu dee-yahhnt (Feminine)
 professeur : Teacher : prah fess urr (Masculine)
 journaliste : Journalist : jornuh leesta
-Père : Father : paihrr 
+Père : Father : paihrr
 Mère : Mother : mhairr
 Frère : Brother : Fhrayr
 sœur : Sister : Saihrr
@@ -560,7 +628,7 @@ et : And : ay (can be silent)
 est : Is : eh (can be silent)
 Sont : are/feel/is : Saww (Plural)
 Sommes : We are/we're/there are ... (of us)/are/feel : summ-uh
-êtes : (you) are/are/feel : Ehtt (Vous) 
+êtes : (you) are/are/feel : Ehtt (Vous)
 Va : is going : Vahh : Name/Il/Elle
 Vas : go/are going/'re going : Vahh : Tu
 Vais : am going : vayh : Je
